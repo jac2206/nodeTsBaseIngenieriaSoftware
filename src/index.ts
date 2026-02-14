@@ -31,7 +31,6 @@ const loyaltySystem = async () => {
       console.log("¡Gracias por visitarnos! Vuelve pronto.");
       rl.close();
       return;
-      break;
     }
   }
 };
