@@ -1,5 +1,5 @@
-import { IPersonServiceInterface } from "../interface/person.service.interface";
-import { Person } from "../interface/person.service.interface";
+import { IPersonServiceInterface } from "./interface/person.service.interface";
+import { Person } from "./interface/person.service.interface";
 
 export class PersonService implements IPersonServiceInterface {
   constructor() {}
